@@ -1,0 +1,10 @@
+{
+  "chroma": {
+    "developerName": "David Jung",
+    "developerContact": "david.jung.le@gmail.com",
+    "category": "application",
+    "supportedDevices": ["keyboard"],
+    "description": "basic hotkey highligting for Tia Portal V17",
+    "title": "Tia Portal Adapter"
+  }
+}
